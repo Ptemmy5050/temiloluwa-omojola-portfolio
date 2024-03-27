@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/temiloluwa-omojola-portfolio/static/css/main.16d640fb.css",
+    "main.js": "/temiloluwa-omojola-portfolio/static/js/main.b2b59cc1.js",
+    "static/media/Me.png": "/temiloluwa-omojola-portfolio/static/media/Me.c4f2e056ee4c23b9b2f3.png",
+    "static/media/now1.png": "/temiloluwa-omojola-portfolio/static/media/now1.d3837546caac2bed929c.png",
+    "static/media/FirstProject2.png": "/temiloluwa-omojola-portfolio/static/media/FirstProject2.6f0d41f9ec7eb24fcb20.png",
+    "static/media/now2.png": "/temiloluwa-omojola-portfolio/static/media/now2.7f545d512e06b55c55ff.png",
+    "static/media/FirstProject3.png": "/temiloluwa-omojola-portfolio/static/media/FirstProject3.0b3840aeef53201d2170.png",
+    "index.html": "/temiloluwa-omojola-portfolio/index.html",
+    "main.16d640fb.css.map": "/temiloluwa-omojola-portfolio/static/css/main.16d640fb.css.map",
+    "main.b2b59cc1.js.map": "/temiloluwa-omojola-portfolio/static/js/main.b2b59cc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d640fb.css",
+    "static/js/main.b2b59cc1.js"
+  ]
+}
